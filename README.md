@@ -17,7 +17,7 @@ Implement a neural style transfer system that can take two images — a **conten
 
 **Content Image** | **Style Image** | **Stylized Output**
 :----------------:|:--------------:|:------------------:
-<img src="content.jpg" width="200"/> | <img src="style.jpg" width="200"/> | <img src="output.jpg" width="200"/>
+<img src="content.jpg" width="200"/> | <img src="style.jpg" width="200"/> | <img src="output.png" width="200"/>
 
 ## 🚀 How to Run
 
